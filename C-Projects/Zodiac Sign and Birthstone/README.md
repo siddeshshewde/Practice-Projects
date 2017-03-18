@@ -4,8 +4,10 @@ This code tells us about our birthstone or zodiac sign, many of us don’t know 
 
 There are 12 types of zodiac signs and birthstones, and this code helps the users to know what are their zodiac sign and birthstone by just giving their date of birth and month of birth as input and the code finds out the rest.
 
-- INPUT
+`INPUT`
+
 Enter the Date of birth and Month.
 
-- OUTPUT
+`OUTPUT`
+
 It will output your Zodiac Sign and Birthstone.
