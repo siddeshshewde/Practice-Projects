@@ -1,5 +1,5 @@
 ## Deck Of Cards
-Solution for https://www.reddit.com/r/beginnerprojects/comments/45fmoa/print_a_deck_of_cards
+Solution for a [Reddit Post](https://www.reddit.com/r/beginnerprojects/comments/45fmoa/print_a_deck_of_cards)
 
 ## About:
 Simple Python program to print deck of cards.
