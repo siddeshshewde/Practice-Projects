@@ -1,7 +1,7 @@
 ## Deck Of Cards
 Solution for a [Reddit Post](https://www.reddit.com/r/beginnerprojects/comments/45fmoa/print_a_deck_of_cards)
 
-## About:
+## About
 Simple Python program to print deck of cards.
 
 ## Features
@@ -15,11 +15,11 @@ Simple Python program to print deck of cards.
 * [ ] Create Deck, Shuffle, Draw Methods
 * [ ] Create Player using classes and integrate
 
-## Usage:
+## Usage
 WIP
 
-## Running It:
+## Running It
 
-## FAQ:
+## FAQ
 
 ## Contributing
