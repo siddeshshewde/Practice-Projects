@@ -11,9 +11,9 @@ Simple Python program to print deck of cards.
 
 ## Plan Of Action
 * [x] Print all the card combinations from a deck
-* [] Instead of suit name, print suit symbol
-* [] Create Deck, Shuffle, Draw Methods
-* [] Create Player using classes and integrate
+* [ ] Instead of suit name, print suit symbol
+* [ ] Create Deck, Shuffle, Draw Methods
+* [ ] Create Player using classes and integrate
 
 ## Usage:
 WIP
