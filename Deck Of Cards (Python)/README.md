@@ -1,18 +1,25 @@
-##Deck Of Cards
-
-
+## Deck Of Cards
 Solution for https://www.reddit.com/r/beginnerprojects/comments/45fmoa/print_a_deck_of_cards
 
-:Author: `Siddesh Shewde <https://github.com/siddeshshewde>`__
-
-.. contents::
-    :backlinks: none
-
-.. sectnum::
-
-
-##About
-
+## About:
 Simple Python program to print deck of cards.
 
-##Features
+## Features
+
+#### Version 1.0
+* Prints all the possibilities of card combinations from a deck.
+
+## Plan Of Action
+- [✓] Print all the card combinations from a deck
+- [] Instead of suit name, print suit symbol
+- [] Create Deck, Shuffle, Draw Methods
+- [] Create Player using classes and integrate
+
+## Usage:
+WIP
+
+## Running It:
+
+## FAQ:
+
+## Contributing
