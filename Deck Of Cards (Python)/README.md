@@ -12,7 +12,6 @@ Simple Python program to print deck of cards.
 * Proper Indentation for printing deck
 * Printing suit symbol using unicode (works on python 3.0+)
 
-
 ## Plan Of Action
 * [x] Print all the card combinations from a deck (v1.0)
 * [x] Proper Indentation (v1.1)
@@ -23,8 +22,10 @@ Simple Python program to print deck of cards.
 ## Usage
 ![Usage](https://github.com/siddeshshewde/Projects/blob/master/Deck%20Of%20Cards%20(Python)/assets/deck_of_cards_usage.GIF)
 
-## Running It
-
-## FAQ
-
 ## Contributing
+1. Fork it.
+2. Clone it.
+3. Create your feature branch.
+4. Commit your changes
+5. Push to the branch
+6. Create new Pull Request
