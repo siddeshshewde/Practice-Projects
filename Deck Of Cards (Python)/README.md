@@ -8,6 +8,10 @@ Simple Python program to print deck of cards.
 
 #### Version 1.0
 * Prints all the possibilities of card combinations from a deck.
+#### Version 1.1
+* Proper Indentation for printing deck
+* Printing suit symbol using unicode (works on python 3.0+)
+
 
 ## Plan Of Action
 * [x] Print all the card combinations from a deck (v1.0)
