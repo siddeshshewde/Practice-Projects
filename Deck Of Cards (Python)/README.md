@@ -21,7 +21,7 @@ Simple Python program to print deck of cards.
 * [ ] Create Player using classes and integrate
 
 ## Usage
-WIP
+![Usage](https://github.com/siddeshshewde/Projects/blob/master/Deck%20Of%20Cards%20(Python)/assets/deck_of_cards_usage.GIF)
 
 ## Running It
 
