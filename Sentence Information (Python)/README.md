@@ -11,7 +11,7 @@ Simple Python program to display information about a sentence.
 
 ## Plan Of Action
 * [x] Print Characters, Vowels, Consonants, Words (v1.0)
-* [ ] Reduce Time Complexity by using a single for loop
+* [x] Reduce Time Complexity by using a single for loop (v1.1)
 
 ## Usage
 ![Usage](https://github.com/siddeshshewde/Projects/blob/master/Sentence%20Information%20(Python)/assets/sentence_information_usage.GIF)
