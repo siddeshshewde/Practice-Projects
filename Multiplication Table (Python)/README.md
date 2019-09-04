@@ -13,7 +13,7 @@ Simple Python program to display a multiplication table.
 * [x] Print multiplication table uptill a given number (v1.0)
 * [x] Clean up your table by evenly spacing columns (v1.0)
 * [x] Allow the user to choose a number to change the size of the table (v1.0)
-* [ ] Allow the user to select add/subtract/multiply/divide (v1.0)
+* [ ] Allow the user to select add/subtract/multiply/divide
 
 ## Usage
 ![Usage](https://github.com/siddeshshewde/Projects/blob/master/Multiplication%20Table%20(Python)/assets/multiplication_table_usage.GIF)
