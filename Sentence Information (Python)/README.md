@@ -14,7 +14,7 @@ Simple Python program to display information about a sentence.
 * [ ] Reduce Time Complexity by using a single for loop
 
 ## Usage
-![Usage](https://github.com/siddeshshewde/Projects/blob/master/Sentence%20Information%20(Python)/assets/sentenceInformation_usage.GIF)
+![Usage](https://github.com/siddeshshewde/Projects/blob/master/Sentence%20Information%20(Python)/assets/sentenceInformation_usage.GI)
 
 ## Contributing
 1. Fork it.
