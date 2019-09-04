@@ -15,7 +15,7 @@ Simple Python program to display a multiplication table.
 * [x] Allow the user to choose a number to change the size of the table (v1.0)
 
 ## Usage
-![Usage](https://github.com/siddeshshewde/Projects/blob/master/Deck%20Of%20Cards%20(Python)/assets/deck_of_cards_usage.GIF)
+![Usage](https://github.com/siddeshshewde/Projects/blob/master/Multiplication%20Table%20(Python)/assets/multiplication_table_usage.GIF)
 
 ## Contributing
 1. Fork it.
